@@ -1,5 +1,5 @@
 variables:
-    UNITY_PACKAGE_PATH: "unity-localization/Assets/Localization/"
+    UNITY_PACKAGE_PATH: "Assets/Localization/"
     NPM_REGISTRY_PATH: "//gitlab.com/api/v4/projects/27157125/packages/npm/"
 
 build-snapshot:
