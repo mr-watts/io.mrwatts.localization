@@ -1,0 +1,24 @@
+{
+  "name": "io.mrwatts.localization",
+  "version": "1.0.0",
+  "displayName": "Mrwatts-Localization",
+  "description": "This package provides an easy way to generate localizationKeys so they can be accessed trough script.",
+  "unity": "2021.3",
+  "keywords": [
+    "Localization",
+    "MRTK",
+    "Mixed Reality Toolkit",
+    "MR",
+    "Mixed Reality",
+    "HoloLens",
+    "HoloLens 2"
+  ],
+  "author": {
+    "name": "Mr. Watts",
+    "email": "hello@mrwatts.io",
+    "url": "https://www.mrwatts.io"
+  },
+  "publishConfig": {
+    "registry": "https://gitlab.com/api/v4/projects/27157125/packages/npm/"
+  }
+}
