@@ -7,6 +7,6 @@ Registry Publication:
     stage: deploy
     script:
         - echo "//gitlab.com/api/v4/projects/27157125/packages/npm/:_authToken=${CI_JOB_TOKEN}" > .npmrc
-        - npm publish unity-onion/Assets/Mrwatts\ Localization/
+        - npm publish unity-localization/Assets/Mrwatts Localization/
     only:
         - tags
