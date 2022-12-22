@@ -33,10 +33,8 @@ Follow the [quick start guide](https://docs.unity3d.com/Packages/com.unity.local
 
 ## Generating the keys
 
-Under _Assets/Localization/StringTables_, select the `Default Shared Data` object and copy it's Table collection name guid string. You can find this field in Untiy debug mode.
-Open the LocalizationTableName.cs script and paste the copied guid in the `new Guid(<Place guid here>)` line.
-
-Go to Unity editor and run the `Mr. Watts/Windows/LocalizationKeyHelper` script.
+Go to Unity editor and open the `Mr. Watts/Windows/LocalizationKeyHelper` script.
+Reference the stringTable you want to use and press "Generate c# script".
 
 You can find your localization keys generated under `Scripts/generated/LocalizationKeys`.
 They can now be referenced trough the LocalizationManager.

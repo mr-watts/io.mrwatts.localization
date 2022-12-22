@@ -1,6 +1,6 @@
 {
   "name": "io.mrwatts.localization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Mrwatts-Localization",
   "description": "This package provides an easy way to generate localizationKeys so they can be accessed trough script.",
   "unity": "2021.3",
